@@ -12,7 +12,7 @@
 ---
 
 ## 📘 Звіт
-[**Переглянути повний PDF-звіт**](https://github.com/vvivchar-bit/-111/blob/main/Lab6_Vivchar_ALK43_Final_WithScreens_DejaVu.pdf)
+[**Переглянути повний PDF-звіт**](lab 777.pdf)
 
 ---
 
